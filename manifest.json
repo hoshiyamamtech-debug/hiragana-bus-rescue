@@ -1,0 +1,11 @@
+{
+  "name": "ひらがなバスレスキュー",
+  "short_name": "ひらがなバス",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff7d6",
+  "theme_color": "#fff7d6",
+  "description": "4歳向けのひらがな読みゲーム",
+  "lang": "ja",
+  "orientation": "portrait"
+}
