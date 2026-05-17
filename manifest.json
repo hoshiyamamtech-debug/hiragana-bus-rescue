@@ -1,11 +1,11 @@
 {
-  "name": "ひらがなバスレスキュー",
-  "short_name": "ひらがなバス",
+  "name": "ひらがなバスレスキューDX",
+  "short_name": "ひらがなバスDX",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#fff7d6",
-  "theme_color": "#fff7d6",
-  "description": "4歳向けのひらがな読みゲーム",
+  "background_color": "#fff1b8",
+  "theme_color": "#fff1b8",
+  "description": "4歳向けのひらがな読みゲームDX",
   "lang": "ja",
   "orientation": "portrait"
 }

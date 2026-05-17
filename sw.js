@@ -1,4 +1,4 @@
-const CACHE_NAME = "hiragana-bus-rescue-v1";
+const CACHE_NAME = "hiragana-bus-rescue-dx-v2";
 const ASSETS = [
   "./",
   "./index.html",
